@@ -1,6 +1,6 @@
 # Team Hustlr Frontend - E-commerce Platform
 
-A modern, responsive e-commerce platform built with Nuxt 3, Vue 3, TypeScript, and Tailwind CSS. Features real-time search, shopping cart functionality, and a clean, intuitive user interface.
+A modern, responsive e-commerce platform built with Nuxt 4, Vue 3, TypeScript, and Tailwind CSS. Features real-time search, shopping cart functionality, and a clean, intuitive user interface.
 
 ## ✨ Features
 
